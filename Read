@@ -1,0 +1,3 @@
+1. I have written code in separate files to understand.
+2. To run the code I have used command on cmd prompt - python -m uvicorn main:app --reload
+3. After that on browser url section enter- localhost:8000 instead of 127.0.0.1:8000
